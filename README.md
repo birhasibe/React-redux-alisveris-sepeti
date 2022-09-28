@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React- Redux ile alisveris sitesi yapimi.
+![istockphoto-929115666-170667a](https://user-images.githubusercontent.com/101066816/192822355-32d727b0-c3d7-4690-957c-446680e56996.jpeg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
